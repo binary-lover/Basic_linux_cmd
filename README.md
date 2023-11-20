@@ -270,5 +270,8 @@ Certainly! Here's a list of Linux commands starting from 101 to 200, with each c
 199. `curl`: Command-line tool for transferring data with URL syntax
 200. `wget`: Non-interactive network downloader
 
-Feel free to use and modify this extended list based on your needs. Add or remove commands and sections as necessary.
+
 ```
+
+<p align ="center">Feel free to use and modify this extended list based on your needs. Add or remove commands and sections as necessary.</p>
+
