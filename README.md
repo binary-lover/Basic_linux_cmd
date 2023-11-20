@@ -1,6 +1,6 @@
-# Top 200 Linux Commands Cheat Sheet
+<h1 align="center"> Top 200 Linux Commands Cheat Sheet</h1>
 
-This is a cheat sheet containing the top 100 Linux commands that every user or system administrator should be familiar with.
+<p align="center">This is a cheat sheet containing the top 100 Linux commands that every user or system administrator should be familiar with.</p>
 
 ```markdown
 
