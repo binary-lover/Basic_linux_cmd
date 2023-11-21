@@ -136,8 +136,6 @@
 Certainly! Here's a list of Linux commands starting from 101 to 200, with each command not mentioned in the previous list (1 to 100):
 
 
-# Additional 100 Linux Commands (101-200)
-
 ## File System Commands
 
 101. `truncate`: Shrink or extend the size of a file
